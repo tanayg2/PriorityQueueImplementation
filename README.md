@@ -1,0 +1,2 @@
+# Priority Queue Implementation Project
+This is a project I worked on for my data structures class. The program allows a user to initialize and manipulate a priority queue through command line inputs. The project is written in C++ and instructions for how to use can be found by running `make` and running the generated executable with `./run`. I spent many hours on this project and after getting it working intially, I spent time exploring different ways to make computations run more efficiently.
